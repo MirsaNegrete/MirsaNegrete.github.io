@@ -1,0 +1,126 @@
+header {
+    display: flex;
+    flex-direction: row;
+    background-color: #010626;
+}
+
+a {
+    text-decoration: none;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+header ul li {
+    margin: 20px;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.eslogan h1 {
+    color: #0B59BF;
+justify-content: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: left;
+    align-items: flex-end;
+}
+
+.menu ul li {
+    color: #0B59BF;
+    text-decoration: none;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: #bfd9fb;
+}
+
+.nosotras h1 {
+    font-size: 55px;
+    color: rgb(1, 1, 26);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 110px;
+}
+
+.nosotras p {
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.nosotras img {
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.funcion h1 {
+    font-size: 55px;
+    color: rgb(1, 1, 26);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    text-justify: center;
+    margin-right: 75px;
+    margin-left: 160px;
+}
+
+.funcion p {
+    display: flex;
+    justify-content: space-between;
+    align-items: normal 
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mapas {
+    background-color: #bfd9fb;
+}
+
+
+.mapas h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.cdmx {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+.cdmx h3 {
+    display: flex;
+    justify-content:center;
+    margin-left: 30px;
+
+}
+
+.redes h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redes img {
+    width: 100px;
+    border-radius: 50%;
+}
